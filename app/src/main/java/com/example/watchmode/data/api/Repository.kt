@@ -4,7 +4,7 @@ import com.example.watchmode.domain.Title
 
 class Repository() {
 
-    private val apiKey = "cP4GQyn7vGAyurCZa5D7HyKDOTDYQ0BFWZ6AXXCd".trim()
+    private val apiKey = "YOUR_API_KEY".trim()
 
     private val service = watchModeApi.create(WatchModeService::class.java)
 
