@@ -17,7 +17,7 @@ It uses a movie API (TMDB/Watchmode) to fetch content and displays it in a clean
 ---
 
 ## 📸 Screenshots
-_Add screenshots here once available_
+_screenshots not available yet_
 
 ---
 
